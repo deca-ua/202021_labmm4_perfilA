@@ -1,0 +1,1 @@
+Na pasta Web só devem ser colocados os ficheiros que são necessário no servidor web.
